@@ -1,0 +1,9 @@
+{
+  "name": "my-vuex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": "git@github.com:JASONPANGGO/my-vuex.git",
+  "author": "jasonpang <jason_pang@126.com>",
+  "license": "MIT"
+}
